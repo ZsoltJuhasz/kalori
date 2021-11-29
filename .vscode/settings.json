@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src", "test"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\diak\\Downloads\\junit-platform-console-standalone-1.8.1.jar",
+            "c:\\Users\\diak\\Downloads\\junit-jupiter-api-5.8.1.jar"
+        ],
+        "exclude": [
+            "lib/junit-jupiter-api-5.8.1.jar",
+            "lib/junit-platform-console-standalone-1.8.1.jar"
+        ]
+    }
+}
